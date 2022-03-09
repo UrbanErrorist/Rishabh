@@ -4686,13 +4686,13 @@ textarea.w-select {
 
 .link-block-5 {
   display: block;
-  background-image: url("https://uploads-ssl.webflow.com/5e80a12e43a59d7ada1826df/5e89c67ef99d7c700f724e5d_main%20section.png");
+  background-image: url("../img/search.png");
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .link-block-5.mobile {
-  background-image: url("https://uploads-ssl.webflow.com/5e80a12e43a59d7ada1826df/5e9731557912e97ef195a2ee_advanced%20search.png");
+  background-image: url("../img/search.png");
 }
 
 .bold-text-15 {
