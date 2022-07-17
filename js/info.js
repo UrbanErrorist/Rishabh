@@ -5525,15 +5525,13 @@ var portfoliothumb = {
 var skills = {
   typescript: { name: "css", year: "3", know: "95" },
   javascript: { name: "javascript", year: "3.5", know: "95" },
-  html: { name: "html", year: "4", know: "99" },
+
   react: { name: "react", year: "3.5", know: "95" },
   node: { name: "node", year: "2.5", know: "85" },
   next: { name: "next", year: "2.5", know: "90" },
   angular: { name: "angular", year: "1.5", know: "70" },
   python: { name: "python", year: "3.5", know: "90" },
-  animation: { name: "animation", year: "1", know: "65", color: "#51b0f5" },
-  zeplin: { name: "zeplin", year: "2", know: "80" },
-  less: { name: "less", year: "4", know: "95" },
+
   es6: { name: "es6", year: "1", know: "65" },
   illustration: {
     name: "illustration",
