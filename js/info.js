@@ -5523,7 +5523,7 @@ var portfoliothumb = {
 };
 
 var skills = {
-  typescript: { name: "css", year: "3", know: "95" },
+  typescript: { name: "typescript", year: "3", know: "95" },
   javascript: { name: "javascript", year: "3.5", know: "95" },
 
   react: { name: "react", year: "3.5", know: "95" },
